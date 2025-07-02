@@ -17,4 +17,4 @@ A simple **dealer profile page** with a sleek **shimmer loading effect**, built 
 
 ## 📸 Preview
 
-[![Profile Shimmer Effect](/docs/profile-shimmer-effect.mp4)]
+[![Profile Shimmer Effect](/docs/profile-shimmer-effect.webm)]
