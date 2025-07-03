@@ -8,6 +8,7 @@ A simple **dealer profile page** with a sleek **shimmer loading effect**, built 
 - Shimmer/Skeleton loader while fetching data
 - Fully responsive design
 - Built with Next.js and Tailwind CSS
+- Search filter and pagination on inventory tab
 
 ## 🛠️ Tech Stack
 
@@ -17,4 +18,18 @@ A simple **dealer profile page** with a sleek **shimmer loading effect**, built 
 
 ## 📸 Preview
 
-[![Profile Shimmer Effect](/docs/profile-shimmer-effect.webm)]
+### Home page
+
+![Homepage](/docs/images/homepage.png)
+
+### Profile page
+
+- Default profile page after all data loaded ![profilepage](/docs/images/profilepage.png)
+
+- Initial loading state shimmer effect on default tab: bio ![bio](/docs/images/shimmer-tab-bio.png)
+
+- Initial loading state shimmer effect on tab: inventory ![inventory](/docs/images/shimmer-tab-inventory.png)
+
+- Shimmer effect when switching tab on initial loading of inventory ![bio-to-inventory](/docs/images/shimmer-bio-to-inventory-switch.png)
+
+- Search filter and pagination on inventory tab ![search-filter-pagination](/docs/images/search-filter-pagination.png)
